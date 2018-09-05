@@ -1,0 +1,27 @@
+
+body{
+background-color: blueviolet;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+    margin: 60px;
+    display: flex;
+    justify-content: space-around;
+    font-family: cursive;
+
+}
+
+#lorena{
+width: 300px;
+height: 300px;
+margin: 10px 500px;
+}
+
+
+
+#miui{
+    width: 400px;
+    height: 300px;
+    margin: 10px 500px;
+}
